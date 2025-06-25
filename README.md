@@ -30,5 +30,5 @@ Insights gained from the analysis can help e-commerce businesses optimize:
 
 ---
 
-**Created by:** [Your Name]  
-**Role Targeted:** Data Analyst / BI Analyst / Data Science Intern  
+**Created by:** NANCY  
+**Role Targeted:** Data Analyst
